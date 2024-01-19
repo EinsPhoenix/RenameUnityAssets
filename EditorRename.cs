@@ -215,6 +215,6 @@ public class RenameAssetsScript : EditorWindow
 
 
 
-//18.1.2024
+//19.1.2024
 //Von Noah Kirsch
 
