@@ -22,6 +22,12 @@ public class RenameAssetsScript : EditorWindow
 
     private Vector2 scrollPosition;
     private Regex regex;
+
+    [MenuItem("Tools/Asset Renamer")] // Hier wird der Menüpfad festgelegt
+    public static void ShowWindow()
+    {
+        EditorWindow.GetWindow<RenameAssetsScript>("Asset Renamer");
+    }
     void OnGUI()
     {
         GUILayout.Label("Asset Renamer", EditorStyles.boldLabel);
@@ -215,6 +221,6 @@ public class RenameAssetsScript : EditorWindow
 
 
 
-//19.1.2024
+//18.1.2024
 //Von Noah Kirsch
 
