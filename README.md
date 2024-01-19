@@ -24,6 +24,6 @@ The Unity Asset Renamer Tool is an editor script for Unity that allows you to ba
  
 ### License Agreement for the Unity Asset Renamer Tool
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit Asset for renaming unity assets, scenes and more © 2024 by Noah Kirsch is licensed under CC BY-NC-ND 4.0.
 
 Everyone is permitted to copy, distribute, display, and build upon this work, as long as it is not for commercial purposes. If modifications are made to the work, the derived work must be published under the same terms. The original author must be appropriately acknowledged by retaining the original license text and authorship.
